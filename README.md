@@ -4,6 +4,8 @@
 
 # ![brpc](docs/images/logo.png)
 
+This is a test!
+
 An industrial-grade RPC framework used throughout [Baidu](http://ir.baidu.com/phoenix.zhtml?c=188488&p=irol-irhome), with 1,000,000+ instances(not counting clients) and thousands kinds of services, called "**baidu-rpc**" inside Baidu. Only C++ implementation is opensourced right now.
 
 You can use it to:
